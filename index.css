@@ -1,0 +1,32 @@
+* {
+    font-size: 1.2rem;
+}
+h1 {
+    font-size: 1.7rem;
+}
+.p1 {
+    font-size: 1.5rem;
+    color: blue;
+}
+.img:hover {
+    position: relative;
+    left: 70px;
+}
+.ae {
+    /* text-decoration: none; */
+    font-size: 1.2rem;
+}
+.nimap {
+    border: 2px solid black;
+    position: fixed;
+    top: 20px;
+    right: 30px;
+}
+.p {
+    color: green;
+    line-height: 1.9rem;
+    font-size: 1.3rem;
+}
+.h2 {
+    display: inline;
+}
